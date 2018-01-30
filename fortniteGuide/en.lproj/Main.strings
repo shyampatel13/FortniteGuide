@@ -1,0 +1,609 @@
+
+/* Class = "UILabel"; text = "Damage: 67"; ObjectID = "0dr-js-YS3"; */
+"0dr-js-YS3.text" = "Damage: 67";
+
+/* Class = "UITextView"; text = "Shield Potions add an extra layer of Protection, which can go up to 100. The Blue colored bar indicates your current Shield. Each potion you drink adds 50 Shield health. Your Shield will decrease once you take damage, but fall damage and Storm damage will only affect your Health Bar."; ObjectID = "0lR-ue-kCe"; */
+"0lR-ue-kCe.text" = "Shield Potions add an extra layer of Protection, which can go up to 100. The Blue colored bar indicates your current Shield. Each potion you drink adds 50 Shield health. Your Shield will decrease once you take damage, but fall damage and Storm damage will only affect your Health Bar.";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "0oy-ZK-9Rt"; */
+"0oy-ZK-9Rt.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "Time: 4.0s"; ObjectID = "1l0-xY-L1L"; */
+"1l0-xY-L1L.text" = "Time: 4.0s";
+
+/* Class = "UILabel"; text = "Scope Assault rifles"; ObjectID = "1mG-U0-TLm"; */
+"1mG-U0-TLm.text" = "Scope Assault rifles";
+
+/* Class = "UITextView"; text = "• Only Located in Supply drops and treasure chests"; ObjectID = "2Gr-To-1Wt"; */
+"2Gr-To-1Wt.text" = "• Only Located in Supply drops and treasure chests";
+
+/* Class = "UILabel"; text = "Damage: 110"; ObjectID = "2NP-xu-Nuw"; */
+"2NP-xu-Nuw.text" = "Damage: 110";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "3Qd-nb-0wT"; */
+"3Qd-nb-0wT.text" = "Magazine: 35";
+
+/* Class = "UITextView"; text = "Gather your team and get Cozy with Cozy Campfire! Your whole team can heal around this fire for 1HP per second. It only takes 1 min 40 sec to get fully healed!"; ObjectID = "3qt-U8-rIv"; */
+"3qt-U8-rIv.text" = "Gather your team and get Cozy with Cozy Campfire! Your whole team can heal around this fire for 1HP per second. It only takes 1 min 40 sec to get fully healed!";
+
+/* Class = "UILabel"; text = "Pistol Rare"; ObjectID = "41J-Xy-hF3"; */
+"41J-Xy-hF3.text" = "Pistol Rare";
+
+/* Class = "UILabel"; text = "Time: 2.0s"; ObjectID = "455-i8-vwL"; */
+"455-i8-vwL.text" = "Time: 2.0s";
+
+/* Class = "UILabel"; text = "Damage: 15"; ObjectID = "4Am-nC-cQS"; */
+"4Am-nC-cQS.text" = "Damage: 15";
+
+/* Class = "UILabel"; text = "Shield: 50 "; ObjectID = "4pc-op-uVJ"; */
+"4pc-op-uVJ.text" = "Shield: 50 ";
+
+/* Class = "UILabel"; text = "Damage: 105"; ObjectID = "50N-df-t0k"; */
+"50N-df-t0k.text" = "Damage: 105";
+
+/* Class = "UILabel"; text = "Damage: 25"; ObjectID = "534-Zf-Gj5"; */
+"534-Zf-Gj5.text" = "Damage: 25";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "59Y-S6-pYt"; */
+"59Y-S6-pYt.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Pump Uncommon"; ObjectID = "5J3-dq-CCs"; */
+"5J3-dq-CCs.text" = "Pump Uncommon";
+
+/* Class = "UILabel"; text = "Pistols"; ObjectID = "5Uw-G7-8sz"; */
+"5Uw-G7-8sz.text" = "Pistols";
+
+/* Class = "UIViewController"; title = "Assault Rifles"; ObjectID = "5Yu-rZ-QIZ"; */
+"5Yu-rZ-QIZ.title" = "Assault Rifles";
+
+/* Class = "UILabel"; text = "Bolt Action Snipers"; ObjectID = "5dW-71-UjB"; */
+"5dW-71-UjB.text" = "Bolt Action Snipers";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "65F-Qq-MfE"; */
+"65F-Qq-MfE.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "M16 Uncommon"; ObjectID = "6UF-op-JKu"; */
+"6UF-op-JKu.text" = "M16 Uncommon";
+
+/* Class = "UILabel"; text = "Grenade Launchers"; ObjectID = "7B9-q4-ukB"; */
+"7B9-q4-ukB.text" = "Grenade Launchers";
+
+/* Class = "UILabel"; text = "Damage: 110"; ObjectID = "7JW-L4-ffg"; */
+"7JW-L4-ffg.text" = "Damage: 110";
+
+/* Class = "UILabel"; text = "Time: 2.0s"; ObjectID = "7N1-eV-Mlm"; */
+"7N1-eV-Mlm.text" = "Time: 2.0s";
+
+/* Class = "UILabel"; text = "Health: 25"; ObjectID = "7YP-Dn-kxE"; */
+"7YP-Dn-kxE.text" = "Health: 25";
+
+/* Class = "UILabel"; text = "Launcher Epic"; ObjectID = "7wN-x1-8mq"; */
+"7wN-x1-8mq.text" = "Launcher Epic";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "8Hi-mh-3Un"; */
+"8Hi-mh-3Un.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Damage: 28"; ObjectID = "8gc-X2-HpR"; */
+"8gc-X2-HpR.text" = "Damage: 28";
+
+/* Class = "UILabel"; text = "Launcher Legendary"; ObjectID = "8sP-ZW-8sd"; */
+"8sP-ZW-8sd.text" = "Launcher Legendary";
+
+/* Class = "UILabel"; text = "SMG Rare"; ObjectID = "9Tn-2f-Ln9"; */
+"9Tn-2f-Ln9.text" = "SMG Rare";
+
+/* Class = "UILabel"; text = "Silenced SMG"; ObjectID = "9WU-mU-KOD"; */
+"9WU-mU-KOD.text" = "Silenced SMG";
+
+/* Class = "UILabel"; text = "Health: 100"; ObjectID = "9fg-Px-WOX"; */
+"9fg-Px-WOX.text" = "Health: 100";
+
+/* Class = "UILabel"; text = "Launcher Rare"; ObjectID = "9gE-xl-eup"; */
+"9gE-xl-eup.text" = "Launcher Rare";
+
+/* Class = "UILabel"; text = "Pump Shotguns"; ObjectID = "9sT-Ph-5Yr"; */
+"9sT-Ph-5Yr.text" = "Pump Shotguns";
+
+/* Class = "UILabel"; text = "Damage: 54"; ObjectID = "AAn-ES-BUS"; */
+"AAn-ES-BUS.text" = "Damage: 54";
+
+/* Class = "UILabel"; text = "Grenade"; ObjectID = "Afo-0S-xbg"; */
+"Afo-0S-xbg.text" = "Grenade";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "BI7-xz-Eu9"; */
+"BI7-xz-Eu9.text" = "Magazine: 35";
+
+/* Class = "UILabel"; text = "Damage: 110"; ObjectID = "BIb-JG-Tjq"; */
+"BIb-JG-Tjq.text" = "Damage: 110";
+
+/* Class = "UILabel"; text = "M16 Rare"; ObjectID = "BWN-Wc-mhp"; */
+"BWN-Wc-mhp.text" = "M16 Rare";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "Bds-TC-bGl"; */
+"Bds-TC-bGl.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "BqV-48-XOO"; */
+"BqV-48-XOO.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Launcher Epic"; ObjectID = "CcM-Q6-7Yh"; */
+"CcM-Q6-7Yh.text" = "Launcher Epic";
+
+/* Class = "UILabel"; text = "Damage: 39"; ObjectID = "DKm-ze-dy6"; */
+"DKm-ze-dy6.text" = "Damage: 39";
+
+/* Class = "UILabel"; text = "Damage: 29"; ObjectID = "E2n-ux-eQ2"; */
+"E2n-ux-eQ2.text" = "Damage: 29";
+
+/* Class = "UILabel"; text = "Magazine: 5"; ObjectID = "EU7-5P-CBd"; */
+"EU7-5P-CBd.text" = "Magazine: 5";
+
+/* Class = "UILabel"; text = "Damage: 66"; ObjectID = "Ebv-AF-uZF"; */
+"Ebv-AF-uZF.text" = "Damage: 66";
+
+/* Class = "UIButton"; normalTitle = "Grenades"; ObjectID = "EjF-ql-PfT"; */
+"EjF-ql-PfT.normalTitle" = "Grenades";
+
+/* Class = "UILabel"; text = "Damage: 60"; ObjectID = "EkJ-wA-RPA"; */
+"EkJ-wA-RPA.text" = "Damage: 60";
+
+/* Class = "UILabel"; text = "Silenced Common"; ObjectID = "Ezg-cW-Eqk"; */
+"Ezg-cW-Eqk.text" = "Silenced Common";
+
+/* Class = "UILabel"; text = "CozyCampfire"; ObjectID = "FAN-xo-5Uo"; */
+"FAN-xo-5Uo.text" = "CozyCampfire";
+
+/* Class = "UILabel"; text = "Scar Legendary"; ObjectID = "Fa2-KN-wdf"; */
+"Fa2-KN-wdf.text" = "Scar Legendary";
+
+/* Class = "UILabel"; text = "Magazine: 20"; ObjectID = "G95-SV-hoH"; */
+"G95-SV-hoH.text" = "Magazine: 20";
+
+/* Class = "UILabel"; text = "Pump Uncommon"; ObjectID = "GaQ-41-QOT"; */
+"GaQ-41-QOT.text" = "Pump Uncommon";
+
+/* Class = "UILabel"; text = "Magazine: 16"; ObjectID = "Gcx-NV-B20"; */
+"Gcx-NV-B20.text" = "Magazine: 16";
+
+/* Class = "UILabel"; text = "Damage: 16"; ObjectID = "HWh-Pi-91f"; */
+"HWh-Pi-91f.text" = "Damage: 16";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "HiN-ks-Bh5"; */
+"HiN-ks-Bh5.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Pistol Uncommon"; ObjectID = "HuP-nZ-k83"; */
+"HuP-nZ-k83.text" = "Pistol Uncommon";
+
+/* Class = "UILabel"; text = "Damage: 35"; ObjectID = "IJv-2d-uIi"; */
+"IJv-2d-uIi.text" = "Damage: 35";
+
+/* Class = "UILabel"; text = "Silenced Epic"; ObjectID = "IUw-Ge-Srt"; */
+"IUw-Ge-Srt.text" = "Silenced Epic";
+
+/* Class = "UIButton"; normalTitle = "Weapons"; ObjectID = "JMf-Yh-fij"; */
+"JMf-Yh-fij.normalTitle" = "Weapons";
+
+/* Class = "UILabel"; text = "Magazine: 8"; ObjectID = "JOs-GE-XrK"; */
+"JOs-GE-XrK.text" = "Magazine: 8";
+
+/* Class = "UILabel"; text = "Tactical Uncommon"; ObjectID = "KNi-GJ-w1K"; */
+"KNi-GJ-w1K.text" = "Tactical Uncommon";
+
+/* Class = "UILabel"; text = "Tactical SMG Rare"; ObjectID = "LO5-xX-KjV"; */
+"LO5-xX-KjV.text" = "Tactical SMG Rare";
+
+/* Class = "UILabel"; text = "Magazine: 16"; ObjectID = "Ldd-pa-bPm"; */
+"Ldd-pa-bPm.text" = "Magazine: 16";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "Ln9-Go-Ai9"; */
+"Ln9-Go-Ai9.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "Tactical SMG"; ObjectID = "M9u-Ab-A9s"; */
+"M9u-Ab-A9s.text" = "Tactical SMG";
+
+/* Class = "UILabel"; text = "Blind Your Enemies"; ObjectID = "MEV-Pj-qG5"; */
+"MEV-Pj-qG5.text" = "Blind Your Enemies";
+
+/* Class = "UILabel"; text = "Tactical Rare"; ObjectID = "MGY-Mm-gua"; */
+"MGY-Mm-gua.text" = "Tactical Rare";
+
+/* Class = "UILabel"; text = "Silenced Uncommon"; ObjectID = "Mlf-0O-l6J"; */
+"Mlf-0O-l6J.text" = "Silenced Uncommon";
+
+/* Class = "UILabel"; text = "Damage: 24"; ObjectID = "NXQ-JH-s2f"; */
+"NXQ-JH-s2f.text" = "Damage: 24";
+
+/* Class = "UILabel"; text = "Magazine: 16"; ObjectID = "Nhx-fD-nfz"; */
+"Nhx-fD-nfz.text" = "Magazine: 16";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "O1F-0f-0Mg"; */
+"O1F-0f-0Mg.text" = "Magazine: 35";
+
+/* Class = "UILabel"; text = "Silenced Rare"; ObjectID = "OOb-Fk-KUa"; */
+"OOb-Fk-KUa.text" = "Silenced Rare";
+
+/* Class = "UILabel"; text = "Time: 10.0s"; ObjectID = "POe-s3-FnE"; */
+"POe-s3-FnE.text" = "Time: 10.0s";
+
+/* Class = "UILabel"; text = "Scoped Rifle Epic"; ObjectID = "PSa-Bf-6cH"; */
+"PSa-Bf-6cH.text" = "Scoped Rifle Epic";
+
+/* Class = "UILabel"; text = "Revolver Common"; ObjectID = "PaR-Mh-hoh"; */
+"PaR-Mh-hoh.text" = "Revolver Common";
+
+/* Class = "UITextView"; text = "MedKits are a little more rare than the bandages, but can be founded easily within chests. They can restore your health back to 100, but the downside is they take 10 seconds to equip. So make sure you're in a good spot to be recovering."; ObjectID = "Pzx-C0-IMa"; */
+"Pzx-C0-IMa.text" = "MedKits are a little more rare than the bandages, but can be founded easily within chests. They can restore your health back to 100, but the downside is they take 10 seconds to equip. So make sure you're in a good spot to be recovering.";
+
+/* Class = "UILabel"; text = "More Improvements"; ObjectID = "Q7u-J8-G4r"; */
+"Q7u-J8-G4r.text" = "More Improvements";
+
+/* Class = "UIViewController"; title = "SMGs"; ObjectID = "QFb-Ty-Bc0"; */
+"QFb-Ty-Bc0.title" = "SMGs";
+
+/* Class = "UILabel"; text = "Scar Epic"; ObjectID = "QIR-jd-yJg"; */
+"QIR-jd-yJg.text" = "Scar Epic";
+
+/* Class = "UILabel"; text = "Damage: 105"; ObjectID = "Qgw-MN-dBm"; */
+"Qgw-MN-dBm.text" = "Damage: 105";
+
+/* Class = "UILabel"; text = "Bolt Epic"; ObjectID = "R5A-ze-RWI"; */
+"R5A-ze-RWI.text" = "Bolt Epic";
+
+/* Class = "UILabel"; text = "Damage: 70"; ObjectID = "RGZ-RF-biM"; */
+"RGZ-RF-biM.text" = "Damage: 70";
+
+/* Class = "UILabel"; text = "Health: 15"; ObjectID = "RIN-Pa-OXj"; */
+"RIN-Pa-OXj.text" = "Health: 15";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "RIx-vL-s9u"; */
+"RIx-vL-s9u.text" = "Magazine: 30";
+
+/* Class = "UITextView"; text = "Max out your shields and health with the new Chug Jug in the Latest Fortnite 2.3 update"; ObjectID = "RPX-jw-rMu"; */
+"RPX-jw-rMu.text" = "Max out your shields and health with the new Chug Jug in the Latest Fortnite 2.3 update";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "Rbp-Ps-bSc"; */
+"Rbp-Ps-bSc.text" = "Magazine: 35";
+
+/* Class = "UILabel"; text = "Damage: 121"; ObjectID = "Rib-D1-UHy"; */
+"Rib-D1-UHy.text" = "Damage: 121";
+
+/* Class = "UILabel"; text = "Damage: 18"; ObjectID = "SVJ-Lr-O6I"; */
+"SVJ-Lr-O6I.text" = "Damage: 18";
+
+/* Class = "UIViewController"; title = "Grenades"; ObjectID = "SXS-XH-tPX"; */
+"SXS-XH-tPX.title" = "Grenades";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "SdZ-MT-gfp"; */
+"SdZ-MT-gfp.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "TO6-jZ-EO1"; */
+"TO6-jZ-EO1.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "• Increased Loot spots for Haunted Hills"; ObjectID = "TZQ-kK-UUa"; */
+"TZQ-kK-UUa.text" = "• Increased Loot spots for Haunted Hills";
+
+/* Class = "UIButton"; normalTitle = "Pistol"; ObjectID = "TkS-ga-lEh"; */
+"TkS-ga-lEh.normalTitle" = "Pistol";
+
+/* Class = "UILabel"; text = "Health"; ObjectID = "WHm-IH-eUu"; */
+"WHm-IH-eUu.text" = "Health";
+
+/* Class = "UILabel"; text = "Damage: 15"; ObjectID = "WVV-g5-UeO"; */
+"WVV-g5-UeO.text" = "Damage: 15";
+
+/* Class = "UILabel"; text = "Time: 15.0"; ObjectID = "X6I-tc-Th3"; */
+"X6I-tc-Th3.text" = "Time: 15.0";
+
+/* Class = "UILabel"; text = "Damage: 23"; ObjectID = "XDy-hO-uds"; */
+"XDy-hO-uds.text" = "Damage: 23";
+
+/* Class = "UITextView"; text = "Bandages come in packs of 5, and you can heal yourself up to 75HP. You can equip up to 15 Bandages. Playing in Squads, Bandages are a very useful item for your team's survival."; ObjectID = "XQ6-GN-2KN"; */
+"XQ6-GN-2KN.text" = "Bandages come in packs of 5, and you can heal yourself up to 75HP. You can equip up to 15 Bandages. Playing in Squads, Bandages are a very useful item for your team's survival.";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "XUa-V3-Me1"; */
+"XUa-V3-Me1.text" = "Magazine: 30";
+
+/* Class = "UIViewController"; title = "Pistols"; ObjectID = "Xbb-wv-FzD"; */
+"Xbb-wv-FzD.title" = "Pistols";
+
+/* Class = "UILabel"; text = "Magazine: 10"; ObjectID = "YJY-pD-O8a"; */
+"YJY-pD-O8a.text" = "Magazine: 10";
+
+/* Class = "UIButton"; normalTitle = "Launcher"; ObjectID = "Yo6-QF-2TY"; */
+"Yo6-QF-2TY.normalTitle" = "Launcher";
+
+/* Class = "UILabel"; text = "Magazine: 8"; ObjectID = "YvG-St-VjA"; */
+"YvG-St-VjA.text" = "Magazine: 8";
+
+/* Class = "UILabel"; text = "Tactical Shotguns"; ObjectID = "Z3l-zi-kDK"; */
+"Z3l-zi-kDK.text" = "Tactical Shotguns";
+
+/* Class = "UILabel"; text = "M16 Common"; ObjectID = "Z4k-a6-lKJ"; */
+"Z4k-a6-lKJ.text" = "M16 Common";
+
+/* Class = "UIViewController"; title = "Snipers"; ObjectID = "ZCW-mS-IS4"; */
+"ZCW-mS-IS4.title" = "Snipers";
+
+/* Class = "UILabel"; text = "Revolvers"; ObjectID = "Znq-ct-OPn"; */
+"Znq-ct-OPn.text" = "Revolvers";
+
+/* Class = "UILabel"; text = "Launcher Legendary"; ObjectID = "aC5-ZB-LLS"; */
+"aC5-ZB-LLS.text" = "Launcher Legendary";
+
+/* Class = "UILabel"; text = "Semi-Auto Epic"; ObjectID = "ajI-Ya-BEO"; */
+"ajI-Ya-BEO.text" = "Semi-Auto Epic";
+
+/* Class = "UILabel"; text = "Tactical Epic"; ObjectID = "b4j-SZ-hS7"; */
+"b4j-SZ-hS7.text" = "Tactical Epic";
+
+/* Class = "UILabel"; text = "SMG Uncommon"; ObjectID = "bsg-Cv-Cdn"; */
+"bsg-Cv-Cdn.text" = "SMG Uncommon";
+
+/* Class = "UILabel"; text = "Damage: 30"; ObjectID = "bvC-lR-TJU"; */
+"bvC-lR-TJU.text" = "Damage: 30";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "bvL-Hf-dgm"; */
+"bvL-Hf-dgm.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "Damage: 37"; ObjectID = "c27-QF-G3p"; */
+"c27-QF-G3p.text" = "Damage: 37";
+
+/* Class = "UILabel"; text = "Time: 5.0s"; ObjectID = "c6S-lD-i1V"; */
+"c6S-lD-i1V.text" = "Time: 5.0s";
+
+/* Class = "UILabel"; text = "• For Consoles: Double tap the left stick"; ObjectID = "cOP-Ul-NEe"; */
+"cOP-Ul-NEe.text" = "• For Consoles: Double tap the left stick";
+
+/* Class = "UILabel"; text = "Shield: 25"; ObjectID = "clh-Mf-DkJ"; */
+"clh-Mf-DkJ.text" = "Shield: 25";
+
+/* Class = "UILabel"; text = "Assault Rifle Burst"; ObjectID = "cnk-4H-wOx"; */
+"cnk-4H-wOx.text" = "Assault Rifle Burst";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "dHy-rR-XKY"; */
+"dHy-rR-XKY.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Burst Assault Rifles "; ObjectID = "dNT-sP-m4n"; */
+"dNT-sP-m4n.text" = "Burst Assault Rifles ";
+
+/* Class = "UILabel"; text = "Make Your Opponents Boogie!!"; ObjectID = "dbc-eH-se7"; */
+"dbc-eH-se7.text" = "Make Your Opponents Boogie!!";
+
+/* Class = "UILabel"; text = "Damage: 33"; ObjectID = "eSb-nl-WGU"; */
+"eSb-nl-WGU.text" = "Damage: 33";
+
+/* Class = "UILabel"; text = "Revolver Uncommon"; ObjectID = "eZj-6j-fy3"; */
+"eZj-6j-fy3.text" = "Revolver Uncommon";
+
+/* Class = "UILabel"; text = "Semi-Auto Snipers"; ObjectID = "efv-dN-ayl"; */
+"efv-dN-ayl.text" = "Semi-Auto Snipers";
+
+/* Class = "UILabel"; text = "• For PC: press '=' + 'NumLock'"; ObjectID = "em0-67-sLM"; */
+"em0-67-sLM.text" = "• For PC: press '=' + 'NumLock'";
+
+/* Class = "UILabel"; text = "Damage: 116"; ObjectID = "fGS-Xo-nCV"; */
+"fGS-Xo-nCV.text" = "Damage: 116";
+
+/* Class = "UIViewController"; title = "Shotguns"; ObjectID = "fpX-Qh-PQe"; */
+"fpX-Qh-PQe.title" = "Shotguns";
+
+/* Class = "UIButton"; normalTitle = "Sniper"; ObjectID = "g4B-hM-mbS"; */
+"g4B-hM-mbS.normalTitle" = "Sniper";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "gcV-cd-JyY"; */
+"gcV-cd-JyY.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Fortnite Guide"; ObjectID = "gu6-Sn-3VB"; */
+"gu6-Sn-3VB.text" = "Fortnite Guide";
+
+/* Class = "UILabel"; text = "Damage: 26"; ObjectID = "gxN-8K-gio"; */
+"gxN-8K-gio.text" = "Damage: 26";
+
+/* Class = "UILabel"; text = "Grenades"; ObjectID = "gz5-xr-iJg"; */
+"gz5-xr-iJg.text" = "Grenades";
+
+/* Class = "UIViewController"; title = "Launchers"; ObjectID = "h2U-ZH-26F"; */
+"h2U-ZH-26F.title" = "Launchers";
+
+/* Class = "UILabel"; text = "Damage: 100"; ObjectID = "hPd-DW-QfO"; */
+"hPd-DW-QfO.text" = "Damage: 100";
+
+/* Class = "UILabel"; text = "Assault Rifles"; ObjectID = "hf0-02-XlZ"; */
+"hf0-02-XlZ.text" = "Assault Rifles";
+
+/* Class = "UILabel"; text = "Damage: 116"; ObjectID = "hi9-5j-d5J"; */
+"hi9-5j-d5J.text" = "Damage: 116";
+
+/* Class = "UILabel"; text = "Damage: 90"; ObjectID = "hlh-p7-uOT"; */
+"hlh-p7-uOT.text" = "Damage: 90";
+
+/* Class = "UILabel"; text = "Damage: 32"; ObjectID = "hoW-6a-ZDn"; */
+"hoW-6a-ZDn.text" = "Damage: 32";
+
+/* Class = "UIButton"; normalTitle = "Assault Rifle"; ObjectID = "iXZ-bw-owR"; */
+"iXZ-bw-owR.normalTitle" = "Assault Rifle";
+
+/* Class = "UILabel"; text = "Magazine: 20"; ObjectID = "ix7-tz-Xvs"; */
+"ix7-tz-Xvs.text" = "Magazine: 20";
+
+/* Class = "UILabel"; text = "Magazine: 10"; ObjectID = "j7l-Bp-aHb"; */
+"j7l-Bp-aHb.text" = "Magazine: 10";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "jBs-VI-YD5"; */
+"jBs-VI-YD5.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Scoped Rifle Rare"; ObjectID = "jPJ-Hv-4Ab"; */
+"jPJ-Hv-4Ab.text" = "Scoped Rifle Rare";
+
+/* Class = "UITextView"; text = "• Kicking a basketball through a soccer net no longer counts as a goal. Soccer balls still count."; ObjectID = "jWG-Kz-KMC"; */
+"jWG-Kz-KMC.text" = "• Kicking a basketball through a soccer net no longer counts as a goal. Soccer balls still count.";
+
+/* Class = "UILabel"; text = "Launcher Rare"; ObjectID = "jiZ-HT-cMg"; */
+"jiZ-HT-cMg.text" = "Launcher Rare";
+
+/* Class = "UILabel"; text = "Bolt Legendary"; ObjectID = "jlw-Vf-10V"; */
+"jlw-Vf-10V.text" = "Bolt Legendary";
+
+/* Class = "UILabel"; text = "Tactical Common"; ObjectID = "jxJ-3B-hOu"; */
+"jxJ-3B-hOu.text" = "Tactical Common";
+
+/* Class = "UILabel"; text = "Damage: 16"; ObjectID = "k1U-Qn-IiW"; */
+"k1U-Qn-IiW.text" = "Damage: 16";
+
+/* Class = "UILabel"; text = "PIstol Common"; ObjectID = "k3x-7R-GkW"; */
+"k3x-7R-GkW.text" = "PIstol Common";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "kcE-TX-vp1"; */
+"kcE-TX-vp1.text" = "Magazine: 30";
+
+/* Class = "UITextView"; text = "• Auto-Run has been added"; ObjectID = "l41-UE-9If"; */
+"l41-UE-9If.text" = "• Auto-Run has been added";
+
+/* Class = "UIViewController"; title = "Patch Notes"; ObjectID = "lUy-Tq-62L"; */
+"lUy-Tq-62L.title" = "Patch Notes";
+
+/* Class = "UILabel"; text = "• Hiding Inside Supply drops has been removed"; ObjectID = "ldR-MO-gqc"; */
+"ldR-MO-gqc.text" = "• Hiding Inside Supply drops has been removed";
+
+/* Class = "UIViewController"; title = "healthViewController"; ObjectID = "m8y-2N-ZhT"; */
+"m8y-2N-ZhT.title" = "healthViewController";
+
+/* Class = "UILabel"; text = "Damage: 19"; ObjectID = "muy-Pw-Dad"; */
+"muy-Pw-Dad.text" = "Damage: 19";
+
+/* Class = "UILabel"; text = "Damage: 14"; ObjectID = "n8b-GL-KKk"; */
+"n8b-GL-KKk.text" = "Damage: 14";
+
+/* Class = "UIButton"; normalTitle = "Sub MAchine Gun"; ObjectID = "nOq-03-JgS"; */
+"nOq-03-JgS.normalTitle" = "Sub MAchine Gun";
+
+/* Class = "UILabel"; text = "Magazine: 5"; ObjectID = "nRm-lD-ZdI"; */
+"nRm-lD-ZdI.text" = "Magazine: 5";
+
+/* Class = "UITextView"; text = "These Mini Shields come in packs of 3, and take only 2 seconds to equip. They can only get you up to 50 shield, so drink another shield potion to get yourself back to 100."; ObjectID = "oCc-hE-Ygj"; */
+"oCc-hE-Ygj.text" = "These Mini Shields come in packs of 3, and take only 2 seconds to equip. They can only get you up to 50 shield, so drink another shield potion to get yourself back to 100.";
+
+/* Class = "UILabel"; text = "Shields"; ObjectID = "oig-Pj-zmw"; */
+"oig-Pj-zmw.text" = "Shields";
+
+/* Class = "UILabel"; text = "Damage: 57"; ObjectID = "oyM-w3-n6z"; */
+"oyM-w3-n6z.text" = "Damage: 57";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "pFq-WR-CXr"; */
+"pFq-WR-CXr.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "pJb-P0-9d3"; */
+"pJb-P0-9d3.text" = "Magazine: 30";
+
+/* Class = "UIButton"; normalTitle = "Update 2.3"; ObjectID = "paC-QP-eg7"; */
+"paC-QP-eg7.normalTitle" = "Update 2.3";
+
+/* Class = "UILabel"; text = "SMG Common"; ObjectID = "pbA-HU-57x"; */
+"pbA-HU-57x.text" = "SMG Common";
+
+/* Class = "UILabel"; text = "Revolver Rare"; ObjectID = "q9I-az-CTx"; */
+"q9I-az-CTx.text" = "Revolver Rare";
+
+/* Class = "UILabel"; text = "Silenced Pistols"; ObjectID = "qDA-K7-r9b"; */
+"qDA-K7-r9b.text" = "Silenced Pistols";
+
+/* Class = "UITextView"; text = "Slurp Juice gives a combination of health and shield over time. meaning it can add 1 HP and shield per second."; ObjectID = "rLD-E4-jDP"; */
+"rLD-E4-jDP.text" = "Slurp Juice gives a combination of health and shield over time. meaning it can add 1 HP and shield per second.";
+
+/* Class = "UILabel"; text = "• You can now disable aim-assist on console"; ObjectID = "rQN-8J-qEQ"; */
+"rQN-8J-qEQ.text" = "• You can now disable aim-assist on console";
+
+/* Class = "UILabel"; text = "Boogie Bomb"; ObjectID = "rS3-vR-TmM"; */
+"rS3-vR-TmM.text" = "Boogie Bomb";
+
+/* Class = "UILabel"; text = "SubMachine Guns"; ObjectID = "rZD-DW-leg"; */
+"rZD-DW-leg.text" = "SubMachine Guns";
+
+/* Class = "UILabel"; text = "Tactical SMG Epic"; ObjectID = "raF-c9-7BK"; */
+"raF-c9-7BK.text" = "Tactical SMG Epic";
+
+/* Class = "UILabel"; text = "Damage: 105"; ObjectID = "rdh-FV-dXh"; */
+"rdh-FV-dXh.text" = "Damage: 105";
+
+/* Class = "UILabel"; text = "Damage: 17"; ObjectID = "sJ7-YR-iWb"; */
+"sJ7-YR-iWb.text" = "Damage: 17";
+
+/* Class = "UILabel"; text = "Smoke Grenade"; ObjectID = "sK2-wm-pCM"; */
+"sK2-wm-pCM.text" = "Smoke Grenade";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "spN-wH-1Pj"; */
+"spN-wH-1Pj.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Magazine: 8"; ObjectID = "swE-7b-3rO"; */
+"swE-7b-3rO.text" = "Magazine: 8";
+
+/* Class = "UILabel"; text = "Assault Rifle Burst"; ObjectID = "szO-Ty-NZF"; */
+"szO-Ty-NZF.text" = "Assault Rifle Burst";
+
+/* Class = "UILabel"; text = "Bolt Rare"; ObjectID = "tSe-nj-br2"; */
+"tSe-nj-br2.text" = "Bolt Rare";
+
+/* Class = "UILabel"; text = "Shield: 25"; ObjectID = "tgo-qr-hYF"; */
+"tgo-qr-hYF.text" = "Shield: 25";
+
+/* Class = "UILabel"; text = "Magazine: 6"; ObjectID = "tl9-ky-HAG"; */
+"tl9-ky-HAG.text" = "Magazine: 6";
+
+/* Class = "UILabel"; text = "Damage: 23"; ObjectID = "uM9-GN-vdn"; */
+"uM9-GN-vdn.text" = "Damage: 23";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "uOX-PE-OpI"; */
+"uOX-PE-OpI.text" = "Magazine: 35";
+
+/* Class = "UILabel"; text = "Damage: 95"; ObjectID = "vI2-Vo-WbD"; */
+"vI2-Vo-WbD.text" = "Damage: 95";
+
+/* Class = "UILabel"; text = "Magazine: 1"; ObjectID = "w7e-Fn-jma"; */
+"w7e-Fn-jma.text" = "Magazine: 1";
+
+/* Class = "UILabel"; text = "Magazine: 16"; ObjectID = "wAS-dt-kLR"; */
+"wAS-dt-kLR.text" = "Magazine: 16";
+
+/* Class = "UILabel"; text = "Damage: 24"; ObjectID = "wv2-zQ-XJW"; */
+"wv2-zQ-XJW.text" = "Damage: 24";
+
+/* Class = "UIButton"; normalTitle = "Health"; ObjectID = "xSB-io-gLa"; */
+"xSB-io-gLa.normalTitle" = "Health";
+
+/* Class = "UIButton"; normalTitle = "Shotgun"; ObjectID = "y2d-SL-DxI"; */
+"y2d-SL-DxI.normalTitle" = "Shotgun";
+
+/* Class = "UITextView"; text = "• Fixed an issue that made Cozy Campfires appear to be active after they have expired."; ObjectID = "yQb-0M-XAE"; */
+"yQb-0M-XAE.text" = "• Fixed an issue that made Cozy Campfires appear to be active after they have expired.";
+
+/* Class = "UILabel"; text = "Semi-Auto Legendary"; ObjectID = "yZZ-ao-vB6"; */
+"yZZ-ao-vB6.text" = "Semi-Auto Legendary";
+
+/* Class = "UILabel"; text = "Damage: 63"; ObjectID = "yk0-vU-2lf"; */
+"yk0-vU-2lf.text" = "Damage: 63";
+
+/* Class = "UILabel"; text = "Magazine: 30"; ObjectID = "ypb-tb-E5l"; */
+"ypb-tb-E5l.text" = "Magazine: 30";
+
+/* Class = "UILabel"; text = "Damage: 74"; ObjectID = "yqL-JH-7gM"; */
+"yqL-JH-7gM.text" = "Damage: 74";
+
+/* Class = "UILabel"; text = "Damage: 14"; ObjectID = "z0i-Ch-K3b"; */
+"z0i-Ch-K3b.text" = "Damage: 14";
+
+/* Class = "UILabel"; text = "Magazine: 16"; ObjectID = "z6D-Jh-Pgz"; */
+"z6D-Jh-Pgz.text" = "Magazine: 16";
+
+/* Class = "UILabel"; text = "Rocket Launchers"; ObjectID = "zHN-zI-gvV"; */
+"zHN-zI-gvV.text" = "Rocket Launchers";
+
+/* Class = "UILabel"; text = "Magazine: 35"; ObjectID = "zIJ-w7-3Fd"; */
+"zIJ-w7-3Fd.text" = "Magazine: 35";
+
+/* Class = "UILabel"; text = "Silenced Legendary"; ObjectID = "zPF-iP-zuA"; */
+"zPF-iP-zuA.text" = "Silenced Legendary";
+
+/* Class = "UILabel"; text = "Assault Rifle Burst"; ObjectID = "zeI-Wg-RFr"; */
+"zeI-Wg-RFr.text" = "Assault Rifle Burst";
+
+/* Class = "UILabel"; text = "Damage: 37"; ObjectID = "zuq-hu-nzR"; */
+"zuq-hu-nzR.text" = "Damage: 37";

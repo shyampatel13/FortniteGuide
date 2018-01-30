@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import EZYGradientView
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
